@@ -1,4 +1,4 @@
-# Volterra-paper
+# Volterra paper
 
 This repo contains the code used to generate plots presented in the paper [Development of an Efficient Formulation for Volterra’s Equations of Motion for Multibody Dynamical Systems](https://scientiairanica.sharif.edu/article_23551.html). 
 
