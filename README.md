@@ -9,7 +9,7 @@ Three folders are provided that correspond to three case studies provided in the
 3. Lagrange
 4. Efficient Volterra (proposed).
 
-Also, to regenerate the exact plots shown in the paper, run the code inside `Graphs' subfolder in each folder. 
+Also, to regenerate the exact plots shown in the paper, run the code inside `Graphs' subfolder in each folder. Run the `RunMe.m` in `Errors Graph' folder to generate the error plots throughout the paper, and run `RunMe.m` in `GCs graph' to plot the graph of generalized coordinates.
 
 If you found this code useful and used it in your research code, please cite the paper as
 
@@ -20,3 +20,6 @@ If you found this code useful and used it in your research code, please cite the
 > year={2024},
 > publisher={Sharif University of Technology}
 > }
+
+# First case study
+This example considers a cart and a 2-DOF pendulum, as shown below.
