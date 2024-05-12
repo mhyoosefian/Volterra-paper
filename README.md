@@ -2,7 +2,7 @@
 
 This repo contains the code used to generate plots presented in the paper [Development of an Efficient Formulation for Volterra’s Equations of Motion for Multibody Dynamical Systems](https://scientiairanica.sharif.edu/article_23551.html). 
 
-Three folders are provided that correspond to three case studies provided in the paper. Each folder contain subfolders named after the method used. Each subfolder contains a `RunMe.m` that should be used to run the corresponding approach. These approaches are: 
+Three folders are provided that correspond to three case studies provided in the paper. Each folder contains subfolders named after the method used. Each subfolder contains a `RunMe.m` that should be used to run the corresponding approach. These approaches are: 
 
 1. Gibbs-Appel
 2. Maggi
