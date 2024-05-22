@@ -30,11 +30,14 @@ This example considers a rigid body to which a deplyable boom is attached. The s
 
 # Citation
 If you found this code useful and used it in your research code, please cite the paper as
+```
+@article{yoosefian2024development,
+  title={Development of an Efficient Formulation for Volterra’s Equations of Motion for Multibody Dynamical Systems},
+  author={Yoosefian Nooshabadi, Mohammad Hussein and Nejat Pishkenari, Hossein},
+  journal={Scientia Iranica},
+  year={2024},
+  publisher={Sharif University of Technology}
+}
+```
 
-> @article{yoosefian2024development,
-> title={Development of an Efficient Formulation for Volterra’s Equations of Motion for Multibody Dynamical Systems},
-> author={Yoosefian Nooshabadi, Mohammad Hussein and Nejat Pishkenari, Hossein},
-> journal={Scientia Iranica},
-> year={2024},
-> publisher={Sharif University of Technology}
-> }
+
